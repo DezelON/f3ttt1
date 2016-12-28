@@ -26,12 +26,12 @@
 ?>
 <body>
 	<img id="background"></img>
-	<div id="title">A Garry's Mod Server</div>
-	<div id="subtitle">Retrieving server info...</div>
+	<div id="title">Forever Fun Face</div>
+	<div id="subtitle">Данные загружаются, пожалуйста подождите...</div>
 	
 	<div id="serverinfo">
-		<span id="gmicon"><i class="fa fa-cogs fa-2x"></i><span id="gamemode"> gamemode</span></span><br>
-		<span id="mapicon"><i class="fa fa-globe fa-2x"></i><span id="map"> map</span></span>
+		<span id="gmicon"><i class="fa fa-cogs fa-2x"></i><span id="gamemode"> режим</span></span><br>
+		<span id="mapicon"><i class="fa fa-globe fa-2x"></i><span id="map"> карта</span></span>
 	</div>
 	
 	<div id="avatar">
@@ -40,7 +40,7 @@
 	</div>
 	
 	<div id="rules">
-		<div id="rulesTitleBox"><span id="rulesTitle">Server Rules</span></div>
+		<div id="rulesTitleBox"><span id="rulesTitle">Правила сервера</span></div>
 		<div id="ruleList">
 		<br>
 		<span id="rule1"></span><br><br><br>
@@ -52,7 +52,7 @@
 	</div>
 	
 	<div id="music">
-		<i class="fa fa-headphones"></i> You're listening to <span id="trackName">"Track Title"</span> by <span id="artist">Artist</span>
+		<i class="fa fa-headphones"></i> Вы слушаете <span id="trackName">"Track Title"</span> by <span id="artist">Artist</span>
 	</div>
 
 
